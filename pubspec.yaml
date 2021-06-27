@@ -1,4 +1,4 @@
-name: myweb2
+name: desktop_mode
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -29,12 +29,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
 
   cupertino_icons: ^1.0.2
-  flutter_inappwebview: ^5.3.2
+#   flutter_inappwebview: ^5.3.2
   flutter_webview_plugin: ^0.4.0
-  url_launcher: ^6.0.6
+#   url_launcher: ^6.0.6
 
 #  path_provider: ^2.0.2
-  barcode_scan: ^1.0.0
+#   barcode_scan: ^1.0.0
 #  validators: ^3.0.0
 #  qr_flutter: ^4.0.0
 #  qr_utils: ^0.1.5
@@ -80,26 +80,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/icon/about_me.jpg
-    - assets/icon/amazon.png
-    - assets/icon/facebook-group.png
-    - assets/icon/followers.jpg
-    - assets/icon/Following.jpg
-    - assets/icon/Friend_list.png
-    - assets/icon/gaming.jpg
-    - assets/icon/incoming_fr.png
-    - assets/icon/marketplace.png
-    - assets/icon/messaging.png
-    - assets/icon/moreapps.png
-    - assets/icon/neews_feed.png
-    - assets/icon/notification.png
-    - assets/icon/outgoing_fr.png
-    - assets/icon/pages.png
-    - assets/icon/profile.jpg
-    - assets/icon/settings.png
-    - assets/icon/watch.jpg
-    - assets/icon/qr.png
+#   assets:
+  
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
