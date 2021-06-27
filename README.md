@@ -1,4 +1,4 @@
-# myweb2
+# desktop_mode
 
 A new Flutter project.
 
